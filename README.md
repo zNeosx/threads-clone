@@ -1,3 +1,7 @@
+## Context
+
+This project is a clone of Treads's application. The aim is to improve my skills in browsing the Threads application's functionalities. It's a JS Mastery's course to teach me by applying good practices and checking my mistakes if necessary.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
